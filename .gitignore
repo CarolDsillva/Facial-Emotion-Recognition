@@ -1,0 +1,17 @@
+# Dataset and trained weights (too large for git)
+data/*
+!data/README.md
+*.keras
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
